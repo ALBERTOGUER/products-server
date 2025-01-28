@@ -23,7 +23,7 @@ app.get("/products", (req, res) => {
         "description": "Smartphone with a 6.1-inch Super Retina XDR display and A15 Bionic chip.",
         "price": 799.00,
         "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1629842709000",
+        "image": "https://next.medusajs.com/us/products/blend-master-elite-fusionator",
         "rating": 4.8
       },
       {
