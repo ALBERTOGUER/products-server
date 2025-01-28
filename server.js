@@ -19,74 +19,74 @@ app.get("/products", (req, res) => {
     data: [
       {
         "id": 1,
-        "title": "Apple iPhone 13",
-        "description": "Smartphone with a 6.1-inch Super Retina XDR display and A15 Bionic chip.",
-        "price": 799.00,
+        "title": "BlendMaster Elite Fusionator",
+        "description": "Because ordinary blenders are for the common folk. With the BlendMaster, you can effortlessly mix your pretentious smoothies and soups while feeling like a culinary genius. It's not just a blender; it's a status symbol in the world of haute cuisine.",
+        "price": 199.00,
         "currency": "USD",
         "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fblender-nobg-1700674984144.png&w=828&q=50",
         "rating": 4.8
       },
       {
         "id": 2,
-        "title": "Samsung Galaxy S21",
-        "description": "Smartphone with a 6.2-inch Dynamic AMOLED 2X display and 64MP camera.",
-        "price": 699.99,
+        "title": "Corporate Commando Throne",
+        "description": "Introducing the Corporate Commando Throne office chair. Experience the ultimate in ergonomic comfort and stylish design. Enhance productivity while commanding authority. Get the Corporate Commando Throne today!",
+        "price": 550.99,
         "currency": "USD",
-        "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/galaxy-s21/gallery/levant-galaxy-s21-5g-g991-sm-g991bzvdmid-368472358?$720_576_PNG$",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fchair-nobg-1700675020905.png&w=828&q=50",
         "rating": 4.7
       },
       {
         "id": 3,
-        "title": "Sony WH-1000XM4",
-        "description": "Wireless headphones with industry-leading noise cancelation.",
-        "price": 349.99,
+        "title": "Decibel Dominator Deluxe",
+        "description": "Introducing the mighty Decibel Dominator Deluxe clock radio alarm! Experience its seamless Bluetooth connectivity and crystal-clear DAB+ radio. Rise and shine in style!",
+        "price": 199.99,
         "currency": "USD",
-        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fradio-nobg-1700675050588.png&w=828&q=50",
         "rating": 4.6
       },
       {
         "id": 4,
-        "title": "Dell XPS 13",
-        "description": "Ultra-thin 13.4-inch laptop with an InfinityEdge display and Intel Core i7 processor.",
-        "price": 999.99,
+        "title": "Nebula Noir Hoodie",
+        "description": "Immerse yourself in cosmic fashion. Unveil the enigmatic allure of the Nebula Noir Hoodie. Embrace its cozy and durable charm. Elevate your style to celestial heights. Get yours today!",
+        "price": 199.99,
         "currency": "USD",
-        "image": "https://i.dell.com/sites/csimages/Video_Imagery/all/xps-13-9300-laptop.jpg",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fhoodie-nobg-1700675072425.png&w=828&q=50",
         "rating": 4.5
       },
       {
         "id": 5,
-        "title": "Apple Watch Series 7",
-        "description": "Smartwatch with an always-on Retina display and advanced health monitoring.",
-        "price": 399.00,
+        "title": "Exorbita Elegance Elite",
+        "description": "Introducing the Exorbita Elegance Elite watch, now available with the option of kinetic movement technology. Immerse yourself in timeless elegance and never worry about battery changes again. Discover the perfect blend of style and innovation.",
+        "price": 1199.00,
         "currency": "USD",
-        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKU93_VW_34FR+watch-44-alum-silver-cell-7s_VW_34FR_WF_CO_GEO_US?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1632171069000",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fwatch-nobg-1700675096621.png&w=828&q=50",
         "rating": 4.9
       },
       {
         "id": 6,
-        "title": "Nintendo Switch",
-        "description": "Hybrid gaming console that works as a home console and a handheld device.",
-        "price": 299.99,
+        "title": "Metallic Majesty Illuminator",
+        "description": "Exquisite steel design lamp. Sleek construction exudes elegance and modernity. Illuminate with style and sophistication. Elevate your decor effortlessly. Perfect for warm and inviting ambiance. Unleash your creativity. Experience steel in a new light.",
+        "price": 399.99,
         "currency": "USD",
-        "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_2.0/c_fill,w_400/ncom/en_US/switch/system/three-modes-in-one",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Flamp-nobg-1700675116934.png&w=828&q=50",
         "rating": 4.8
       },
       {
         "id": 7,
-        "title": "Kindle Paperwhite",
-        "description": "E-reader with a 6.8-inch display, warm light, and water resistance.",
-        "price": 139.99,
+        "title": "Audio Arrogance AuralElite",
+        "description": "Immerse in audio with the Audio Arrogance AuralElite Bluetooth headphones. Enjoy Active Noise Cancellation (ANC) for immersive experience. Indulge in flawless sound.",
+        "price": 249.99,
         "currency": "USD",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/61f8A5mT2cL._AC_SL1000_.jpg",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fheadphones-nobg-1700675136219.png&w=828&q=50",
         "rating": 4.7
       },
       {
         "id": 8,
-        "title": "GoPro HERO10 Black",
-        "description": "Action camera with 5.3K60 video, 23MP photos, and HyperSmooth 4.0 stabilization.",
+        "title": "Pinnacle Posh Pack",
+        "description": "Elevate your travel experience with the luxurious Pinnacle Posh Pack. Crafted from genuine leather, this stylish backpack is tailor-made for modern adventurers. It's handmade, durable, and exudes a touch of sophistication. Upgrade your travel game today!",
         "price": 499.99,
         "currency": "USD",
-        "image": "https://gopro.com/content/dam/gopro/en/en/pdp/hero10-black/packaging/hero10-black-package-1.jpg",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fbag-nobg-1700675158493.png&w=828&q=50",
         "rating": 4.6
       },
       {
@@ -100,11 +100,11 @@ app.get("/products", (req, res) => {
       },
       {
         "id": 10,
-        "title": "Fitbit Charge 5",
-        "description": "Advanced fitness tracker with built-in GPS, health monitoring, and stress management.",
-        "price": 179.95,
+        "title": "Vinyl Virtuoso Opulenza",
+        "description": "Immerse in authentic sound and timeless charm with the Vinyl Virtuoso Opulenza. Elevate your listening experience with this vintage-inspired Analog Turntable. Rediscover music's essence now.",
+        "price": 699.95,
         "currency": "USD",
-        "image": "https://static1.fitbit.com/static/fitbit-home-page/en/galleries/en-us/products/hero_image_no_static.gif",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fturntable-nobg-1700675179097.png&w=828&q=50",
         "rating": 4.6
       }
     ]
