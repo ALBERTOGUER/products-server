@@ -89,15 +89,7 @@ app.get("/products", (req, res) => {
         "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fbag-nobg-1700675158493.png&w=828&q=50",
         "rating": 4.6
       },
-      {
-        "id": 9,
-        "title": "Bose SoundLink Revolve+ II",
-        "description": "Portable Bluetooth speaker with 360-degree sound and long battery life.",
-        "price": 329.00,
-        "currency": "USD",
-        "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/product_silo_images/SoundLink-RevolvePlus-II_LUX_SILVER_EC_hero.psd/jcr:content/renditions/cq5dam.web.320.320.png",
-        "rating": 4.7
-      },
+
       {
         "id": 10,
         "title": "Vinyl Virtuoso Opulenza",
