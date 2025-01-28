@@ -23,7 +23,7 @@ app.get("/products", (req, res) => {
         "description": "Smartphone with a 6.1-inch Super Retina XDR display and A15 Bionic chip.",
         "price": 799.00,
         "currency": "USD",
-        "image": "https://next.medusajs.com/us/products/blend-master-elite-fusionator",
+        "image": "https://next.medusajs.com/_next/image?url=https%3A%2F%2Fmedusa-server-testing.s3.us-east-1.amazonaws.com%2Fblender-nobg-1700674984144.png&w=828&q=50",
         "rating": 4.8
       },
       {
